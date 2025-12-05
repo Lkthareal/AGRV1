@@ -1,0 +1,26 @@
+{
+  "name": "final-agr-facility",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-router-dom": "6.22.0",
+    "react-router": "6.22.0",
+    "@remix-run/router": "1.15.0",
+    "@supabase/supabase-js": "2",
+    "recharts": "2.12.0",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "~5.8.2",
+    "vite": "^5.2.0"
+  }
+}
